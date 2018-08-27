@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"jasilven/aoc17/util"
+	"jasilven/aoc-2017-go/util"
 	"strconv"
 	"strings"
 )
